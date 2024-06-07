@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+h1 {
+  color: #4861bd;
+}
+.customer {
+  margin: 20px auto;
+  max-width: 600px;
+  border: 1px solid #352f2f;
+  padding: 20px;
+}
+.customer h2 {
+  color: rgb(68, 64, 189);
+}
+.customer p {
+  border-top: 2px solid #ccc;
+  border-bottom: 2px solid #ccc;
+  padding: 10px 0;
+}
+.customer h3 {
+  color: rgb(96, 131, 184);
+}
+
+.customer ul {
+  list-style: none;
+  padding: 0;
+}
+.customer li {
+  margin-bottom: 10px;
+}
